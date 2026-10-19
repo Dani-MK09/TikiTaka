@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: tikitaka-api
+server:
+  port: 8080
