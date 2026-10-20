@@ -5,6 +5,7 @@
 > Estado: scaffold técnico inicial. No hay autenticación, matching, chats, geolocalización ni funcionalidades de producción implementadas. El nombre comercial está pendiente de validación jurídica.
 
 ## Stack inicial
+- Mockup móvil interactivo 0.1: abrir [`mockups/0.1/index.html`](mockups/0.1/index.html) en el navegador. Incluye Day/Night, Jugador, Cupido, juegos y conversaciones simuladas. [Guía y limitaciones](mockups/0.1/README.md).
 - `apps/web`: React + TypeScript + Vite
 - `apps/api`: Java 21 + Spring Boot REST
 - `infra/`: PostgreSQL para desarrollo local (Docker Compose)
